@@ -1,4 +1,4 @@
 <?php
 putenv("dbusername=root");
-putenv("dbpwd=");
+putenv("dbpwd=root");
 putenv("dbname=tp_insecure_deserialization");
